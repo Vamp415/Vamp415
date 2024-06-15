@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vamp415
-- 🕺🏻My Name is Hardik Saxena
+- 👋 Hi, I’m Hardik Saxena (@Vamp415)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 You can reach me via mail (vchs415@gmail.com)
