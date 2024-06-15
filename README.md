@@ -2,7 +2,6 @@
 - 🕺🏻My Name is Hardik Saxena
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via mail (vchs415@gmail.com)
 <!---
 Vamp415/Vamp415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
