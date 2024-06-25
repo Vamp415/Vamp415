@@ -81,3 +81,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vamp415&theme=dracula&column=-1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamp415&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Vamp415/Vamp415/output/snake.svg" alt="Snake animation" />
+
