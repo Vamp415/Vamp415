@@ -82,5 +82,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamp415&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
-<img src=".github\workflows\snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vamp415/Vamp415/output/snake.svg" alt="Snake animation" />
+
 
