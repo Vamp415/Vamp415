@@ -2,18 +2,33 @@
 <h3 align="center">Web Developer | Cyber Security Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vamp415&label=Profile%20views&color=0e75b6&style=flat" alt="vamp415" />
+  <img src="https://komarev.com/ghpvc/?username=vamp415&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/aKF8lF0dyoQAAAAC/the-originals-elijah-mikaelson.gif" alt="Animated Gif" />
 </div>
 
-- 🌱 I’m currently learning **Ethical Hacking, React, Flutter**
-- 👨‍💻 Check out my projects: [My Portfolio](https://ogvamp-hardik-portfolio.netlify.app/)
-- 📫 How to reach me: **vchs415@gmail.com**
-- 📄 Learn about my experiences: [My Resume](https://ogvamp-hardik-portfolio.netlify.app/)
-- ⚡ Fun fact: **Why make it hard when it can be simple**
+---
+
+### 🌱 Currently Learning:
+- **Ethical Hacking**
+- **React**
+- **Flutter**
+
+### 👨‍💻 Projects:
+Check out my [Portfolio](https://ogvamp-hardik-portfolio.netlify.app/)
+
+### 📫 How to Reach Me:
+**Email:** vchs415@gmail.com
+
+### 📄 Learn About My Experience:
+[My Resume](https://ogvamp-hardik-portfolio.netlify.app/)
+
+### ⚡ Fun Fact:
+*Why make it hard when it can be simple?*
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +39,8 @@
   <a href="https://www.linkedin.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -74,6 +91,8 @@
   </a>
 </p>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vamp415&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
@@ -81,4 +100,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vamp415&theme=dracula&column=-1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamp415&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
-
