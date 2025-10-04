@@ -234,12 +234,13 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Live GitHub Analytics
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamp415&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&border_color=8b5cf6&border_radius=10&layout=compact" alt="Top Languages" />
+  <!-- Real-time GitHub Stats with all-time data -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10&count_private=true&include_all_commits=true&show_owner=true" alt="Live GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamp415&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&border_color=8b5cf6&border_radius=10&layout=compact&count_private=true&include_all_commits=true&langs_count=8" alt="Live Top Languages" />
   
 </div>
 
@@ -247,7 +248,8 @@
 
 <div align="center">
   
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Vamp415&theme=tokyonight&background=1e1b4b&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=8b5cf6&stroke=8b5cf6&border_radius=10" alt="GitHub Streak" />
+  <!-- Live Streak Stats with detailed metrics -->
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Vamp415&theme=tokyonight&background=1e1b4b&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=8b5cf6&stroke=8b5cf6&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Live GitHub Streak" />
   
 </div>
 
@@ -255,7 +257,9 @@
 
 <div align="center">
   
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Vamp415&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+  <!-- Comprehensive GitHub Metrics -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed GitHub Metrics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vamp415&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&border_color=8b5cf6&border_radius=10&layout=compact" alt="Coding Time Stats" />
   
 </div>
 
@@ -263,7 +267,37 @@
 
 <div align="center">
   
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamp415&custom_title=Hardik's%20Contribution%20Graph&bg_color=1e1b4b&color=8b5cf6&line=8b5cf6&point=ffffff&area_color=8b5cf6&title_color=ffffff&area=true&border_radius=10" alt="GitHub Activity Graph" />
+  <!-- All-time Trophies with comprehensive achievements -->
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Vamp415&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Organizations" alt="Live GitHub Trophies" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Live Activity Graph with historical data -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamp415&custom_title=Live%20Contribution%20Activity%20(All%20Time)&bg_color=1e1b4b&color=8b5cf6&line=8b5cf6&point=ffffff&area_color=8b5cf6&title_color=ffffff&area=true&border_radius=10&days=365" alt="Live GitHub Activity Graph" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Additional Live Metrics -->
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vamp415&repo=Vamp415&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10" alt="Profile Repo Stats" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="PR Stats" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Vamp415&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6&border_radius=10&count_private=true&include_all_commits=true&show=reviews,discussions_started" alt="Community Stats" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Real-time Commit Calendar -->
+  <img src="https://ghchart.rshah.org/8b5cf6/Vamp415" alt="Live Commit Calendar" width="90%" />
   
 </div>
 
